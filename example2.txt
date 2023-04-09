@@ -1,0 +1,26 @@
+ure! Here's an example of an ATO written in USMTF:
+OPLAN:JTF−101−SYMBOL−001ATO:201101ZMAR21−201121ZMAR21
+AUTHENTICATION:7652ZK1LINE1:AMSNDAT/CANRISKTFC/WARHOG/GUN/BA/HALO/1F18/1F18/SEAD/FIGHTER
+/BALINE2:GTGTLOC/42N046W/1HR−30/28N078W/2HR−00/26N084W/1HR−30/29N086W/0HR−30/
+ENDPTSLINE3:
+REFUEL/CAMEL/CANTEEN/CHARGER/10NMLINE4:NARR/SEADCOMMANDER:WARHOG/MSNCOMMANDER:WARHOG/LINE1:
+AMSNDAT/CANRISKTFC/STRIKEEAGLE/GUN/BA/HALO/2F15/2F15/SEAD/FIGHTER/
+BALINE2:GTGTLOC/42N046W/1HR−30/28N078W/2HR−00/26N084W/1HR−30/29N086W/0HR−30/
+ENDPTSLINE3:REFUEL/CAMEL/CANTEEN/CHARGER/10NMLINE4:NARR/SEADCOMMANDER:STRIKEEAGLE/
+MSNCOMMANDER:STRIKEEAGLE/
+
+
+In this example, the ATO is formatted with the following fields:
+
+    OPLAN: The operation plan number or identifier.
+    ATO: The dates for which the Air Tasking Order applies.
+    AUTHENTICATION: The code word used to authenticate the message.
+
+The ATO itself consists of several lines, each with a specific format:
+
+    LINE 1: AMSNDAT with a list of aircraft, weapons loadouts, and mission types.
+    LINE 2: GTGTLOC with a list of geographical coordinates and estimated time over target.
+    LINE 3: REFUEL with a list of tankers and refueling options.
+    LINE 4: NARR with mission commander notes and comments.
+
+Each line begins with a specific keyword that identifies the type of information provided in that line.

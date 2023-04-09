@@ -1,0 +1,25 @@
+Here is an example format for an ATO document:
+
+    ATO number and date/time group: e.g. ATO #001, valid from 0800Z to 1600Z on DD/MM/YYYY
+
+    Mission commander's intent and objectives: a brief statement describing the mission's purpose and goals, such as "Destroy enemy ground forces in sector X and establish a defensive perimeter."
+
+    Airspace and geographic boundaries: a description of the airspace and geographic boundaries in which the mission will take place, including any no-fly zones or restricted areas.
+
+    Aircraft and weapons to be used: a list of the aircraft types and their configurations, as well as the types and quantities of weapons they will carry.
+
+    Scheduled takeoff, landing, and in-flight refueling times: a detailed schedule of when each aircraft will take off, land, and refuel in flight, including any changes due to contingencies.
+
+    Radio frequencies and communication procedures: a list of the radio frequencies to be used by each aircraft and ground control, as well as any specific communication procedures to be followed.
+
+    Targets and objectives: a list of the targets and objectives for the mission, including their location, type, and priority level.
+
+    Planned routes of flight and waypoints: a detailed plan of the routes each aircraft will take, including any waypoints, altitude and speed restrictions, and estimated time en route.
+
+    Airspace control measures: any airspace control measures that will be in effect during the mission, such as no-fly zones, restricted areas, and altitude restrictions.
+
+    Weather conditions and their potential impact: a description of the expected weather conditions and their potential impact on the mission, including any alternate plans or contingencies in case of changes.
+
+    Alternate plans and contingencies: a description of alternate plans and contingencies in case of changes or unexpected events during the mission.
+
+Note that this is just an example format, and the actual format and content of an ATO can vary depending on the specific requirements of the mission and the military organization involved.

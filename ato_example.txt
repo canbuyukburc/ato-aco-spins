@@ -1,0 +1,59 @@
+ZULU TIME: 1115Z
+Date: 200727
+ATO Number: 01
+
+1. SITUATION
+a. Enemy Forces:
+(1) Enemy composition, location, strength, and disposition:
+   Enemy composition is unknown. Enemy forces have been observed in the vicinity of OBJ ALPHA and OBJ BRAVO.
+(2) Enemy air activity:
+   No enemy air activity has been observed in the area of operations.
+b. Friendly Forces:
+(1) Composition, location, strength, and disposition:
+   Friendly forces consist of one F/A-18C squadron, one F-16C squadron, and one E-3 AWACS.
+(2) Mission of adjacent units:
+   Adjacent units will be conducting a separate operation to the north.
+c. Attachments and detachments:
+   None.
+
+2. MISSION
+a. Objective:
+   The objective is to conduct offensive counter air (OCA) operations in the vicinity of OBJ ALPHA and OBJ BRAVO.
+b. General:
+   1. The operation will commence at 1145Z.
+   2. The F/A-18C squadron will conduct air-to-ground (AG) strikes against OBJ ALPHA. The F-16C squadron will conduct air-to-air (AA) operations in support of the F/A-18C squadron. The E-3 AWACS will provide airborne early warning and control (AEW&C) for the operation.
+   3. Rules of engagement (ROE) are as follows:
+      a. All targets are declared hostile.
+      b. The use of force is authorized against hostile targets.
+      c. No civilian casualties are authorized.
+c. Execution:
+   1. Timeline:
+      a. 1130Z: F/A-18C and F-16C squadrons will launch from airbase.
+      b. 1145Z: Operation will commence.
+      c. 1200Z: Estimated time of completion.
+   2. Tasks:
+      a. F/A-18C squadron will conduct AG strikes against OBJ ALPHA.
+      b. F-16C squadron will conduct AA operations in support of the F/A-18C squadron.
+      c. E-3 AWACS will provide AEW&C for the operation.
+   3. Coordinating Instructions:
+      a. F/A-18C squadron will maintain radio contact with the E-3 AWACS.
+      b. F-16C squadron will maintain radio contact with the F/A-18C squadron.
+      c. E-3 AWACS will maintain radio contact with all units.
+      d. In the event of an emergency, units will contact the E-3 AWACS on frequency 123.45.
+
+3. SERVICE SUPPORT
+a. Logistics:
+   1. Fuel and munitions will be provided by the airbase.
+   2. Medical support will be provided by the airbase.
+b. Command and Control:
+   1. Overall command and control will be provided by the AWACS.
+   2. Tactical command and control will be provided by the F/A-18C squadron.
+
+4. COMMAND AND SIGNAL
+a. Command:
+   1. The mission commander is the commanding officer of the F/A-18C squadron.
+   2. The tactical air control party (TACP) will be provided by the F/A-18C squadron.
+b. Signal:
+   1. Radio Frequencies:
+      a. F/A-18C squadron: UHF 225.000 MHz
+      b. F-16C squadron: UHF 225.100 MHz
